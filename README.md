@@ -17,12 +17,11 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   ### Auteur:
   Ananda van der Meulen
- 
   #### Je startniveau:
-  Startniveau is blauw
-
+  Blauw
   #### Je focus:
-  De focus ligt op responisve design 
+  Mijn focus ligt op responsive.
+ 
 </details>
 
 
@@ -35,15 +34,17 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken voor kick-off werkgroep</summary>
 
   ### Je opdracht:
-  link naar de website die je gaat namaken óf de naam/omschrijving van je eigen ontwerp
+  https://www.club-atelier.nl/
+  -Het is een site die horizontaal werkt (ipv verticaal)
+
 
   #### Screenshot(s) van de eerste pagina (small screen): 
   hier de naam van de pagina  
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="omschrijving van de pagina">
+  <img src="./images/mobielframe.jpg" width="375px" alt="foto van mobiele scherm">
 
   #### Screenshot(s) van de tweede pagina (small screen):
   hier de naam van de pagina  
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="omschrijving van de pagina">
+  <img src="./images/mobielframe2.png" width="375px" alt="foto van 2e mobiel scherm">
  
 </details>
 
@@ -57,6 +58,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   ### Bevindingen
   Lijst met je bevindingen die in de test naar voren kwamen:
 
+
 </details>
 
 
@@ -67,7 +69,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken na afloop 3<sup>e</sup> werkgroep</summary>
 
   ### de hele pagina: 
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="breakdown van de hele pagina">
+  <img src="./images/mobielframejpg" width="375px" alt="breakdown van de hele pagina">
 
   ### dynamisch deel (bijv menu): 
   <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="breakdown van een dynamisch deel">
@@ -87,13 +89,13 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken voor 1<sup>e</sup> voortgang</summary>
 
   ### Stand van zaken
-  hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
+  Deze week heb ik zoveel mogeelijk geoefend met css en javascript. Na wat herhaling kwam alles weer naar boven. Ik blijf het lastg vinden, maar ga mijn best doen om alles goed te behandelen. Ook ben ik begonnen met mijn eigen website. Hiebrij het ik van de eerste section alle html gemaakt en ben ik het menu in css en javascript aan het coderen. Wat ik ook lastig vind is het bedenken van het juiste taalgebruik om bijvoorbeeld iets te googlen. Ik weet wat ik wil, maar kan dit nog lastig met codeertaal vertellen.
 
 
   ### Agenda voor meeting
   samen met je groepje opstellen
 
-  | student 1      | student 2          | student 3    | student 4        |
+  | Alia           | Kim                | Ananda       | Valentijn        |
   | ---            | ---                | ---          | ---              |
   | dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
   | en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
@@ -206,7 +208,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   ### Dit ging goed/Heb ik geleerd: 
   Korte omschrijving met plaatjes
 
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="top">
+  <img src="readme-images/dummy-plaatje.png" width="375px" alt="top">
 
 
   ### Dit was lastig/Is niet gelukt:
