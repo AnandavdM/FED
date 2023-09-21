@@ -1,0 +1,73 @@
+/*LETTERTYPE*/
+@font-face {
+	font-family: 'open-sans';
+	src: url('../lettertype/open-sans-v13-latin-regular.woff2') format('truetype');
+	font-weight: normal;
+}
+
+@font-face {
+	font-family: 'open-sans';
+	src: url('../lettertype/open-sans-v13-latin-italic.woff2') format('truetype');
+	font-weight: italic;
+
+}
+
+@font-face {
+	font-family: 'open-sans';
+	src: url('../lettertype/open-sans-v13-latin-700.woff2') format('truetype');
+	font-weight: 700;
+
+}
+
+@font-face {
+	font-family: 'open-sans';
+	src: url('../lettertype/open-sans-v13-latin-600\ \(1\).woff2') format('truetype');
+	font-weight: 600;
+
+}
+
+/**************/
+/* CSS REMEDY */
+/**************/
+*,
+*::after,
+*::before {
+	box-sizing: border-box;
+}
+
+
+
+
+
+
+/*********************/
+/* CUSTOM PROPERTIES */
+/*********************/
+:root {
+	--color-text: #111;
+	--text-color: #111;
+	--color-background: #eee;
+	--general-color: lightcoral;
+	--general-background: #fff;
+
+	--header: #001024;
+	--background-main1o:#586E67ee;
+	--background-main2o:#b69544cc;
+	--background-main3o:#546370cc; 
+	--background-main4o:#d78e74cc;
+
+	--background-main1:#586E67;
+	--background-main2:#f8c54c;
+	--background-main3:#38395e; 
+	--background-main4:#cb5347;
+	--background-main5:#e78166;
+	--background-main6:#001024;
+
+
+	--text-colorgray:#cecece;
+
+
+}
+
+
+

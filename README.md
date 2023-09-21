@@ -40,11 +40,11 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   #### Screenshot(s) van de eerste pagina (small screen): 
   hier de naam van de pagina  
-  <img src="./images/mobielframe.jpg" width="375px" alt="foto van mobiele scherm">
+  <img src="./readme-images/mobielframe.jpg" width="375px" alt="foto van mobiele scherm">
 
   #### Screenshot(s) van de tweede pagina (small screen):
   hier de naam van de pagina  
-  <img src="./images/mobielframe2.png" width="375px" alt="foto van 2e mobiel scherm">
+  <img src="./readme-images/mobielframe2.png" width="375px" alt="foto van 2e mobiel scherm">
  
 </details>
 
@@ -54,7 +54,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
 <details>
   <summary>uitwerken na test in 2<sup>e</sup> werkgroep</summary>
-
+    <img src="./readme-images/checklist.pdf" width="375px" alt="checklist">
   ### Bevindingen
   Lijst met je bevindingen die in de test naar voren kwamen:
 
@@ -68,14 +68,16 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 <details>
   <summary>uitwerken na afloop 3<sup>e</sup> werkgroep</summary>
 
+  Het is nog niet af.
+
   ### de hele pagina: 
-  <img src="./images/mobielframejpg" width="375px" alt="breakdown van de hele pagina">
+  <img src="./readme-images/mobielframe.jpg" width="375px" alt="breakdown van de hele pagina">
 
   ### dynamisch deel (bijv menu): 
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="breakdown van een dynamisch deel">
+  <img src="./readme-images/mobileframe2.jpg" width="375px" alt="breakdown van een dynamisch deel">
 
   ### wellicht nog een dynamisch deel (bijv filter): 
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="breakdown van nog een dynamisch deel">
+  <img src="./readme-images/dummy-plaatje.jpg" width="375px" alt="breakdown van nog een dynamisch deel">
 
 </details>
 
@@ -89,8 +91,11 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken voor 1<sup>e</sup> voortgang</summary>
 
   ### Stand van zaken
-  Deze week heb ik zoveel mogeelijk geoefend met css en javascript. Na wat herhaling kwam alles weer naar boven. Ik blijf het lastg vinden, maar ga mijn best doen om alles goed te behandelen. Ook ben ik begonnen met mijn eigen website. Hiebrij het ik van de eerste section alle html gemaakt en ben ik het menu in css en javascript aan het coderen. Wat ik ook lastig vind is het bedenken van het juiste taalgebruik om bijvoorbeeld iets te googlen. Ik weet wat ik wil, maar kan dit nog lastig met codeertaal vertellen.
+Deze week heb ik me flink beziggehouden met CSS en JavaScript. Na wat herhaling kwam alles weer naar boven, maar eerlijk gezegd vind ik het nog steeds behoorlijk pittig. Ik doe mijn best om alles goed te doen, maar het kan soms even duren.
 
+Daarnaast ben ik begonnen met mijn eigen website. Ik heb de HTML voor het eerste gedeelte van de site in elkaar gezet. Nu ben ik bezig met het menu in CSS en JavaScript. Dat is nog een uitdaging. Ik weet wat ik wil maken, maar om dat in programmeertaal te vertalen of de juiste zoektermen te bedenken vind ik lastig. Ondanks dit merk ik dat het met de les beter gaat.
+
+Desondanks wil ik mijn project goed afronden en veel leren. Het leerproces is uitdagend, maar ik ben enthousiast om nieuwe dingen te leren en mijn website tot leven te brengen.
 
   ### Agenda voor meeting
   samen met je groepje opstellen
@@ -103,13 +108,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
 
   ### Verslag van meeting
-  hier na afloop snel de uitkomsten van de meeting vastleggen
-
-  - punt 1
-  - punt 2
-  - nog een punt
-  - ...
-
+  We zijn langs elke website gegaan en hebben bepaalde vragen gesteld aan de studentassistenten. Het lukte bij mij niet om de navigatie te laten werken. Ik heb hier daarom mijn vragen over gesteld. Eenmaal klaar met de meeting met ik aan de slag gegaan met de navigatie en het toch aan de praat gekregen.
 </details>
 
 
@@ -122,8 +121,11 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken voor 2<sup>e</sup> voortgang</summary>
 
   ### Stand van zaken
-  hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
+Deze week heb ik de belangrijkste inhoud van mijn website opgeschreven en ben ik begonnen met de css te verbeteren. In het bovenste gedeelte van de pagina heb ik een video als achtergrond gebruikt, maar ik had wat moeite om deze naar de achtergrond te verplaatsen, zodat andere dingen eroverheen gezet kunnen worden. Uiteindelijk heb ik ontdekt dat ik dit kan doen door een soort van "volgorde" aan te geven met z-index.
 
+Ook was ik wat tijd kwijt aan het vlak waar de span in staat. deze moesten om de beurt te voorschijn komen. Dit heb ik gedaan dmv keyframes en een linear gradient te plaatsen op de achtergrond zodat er 4 vlakken te zien zijn. 
+
+Ik probeer ook te leren hoe ik een bepaalde indeling kan maken voor mijn pagina, maar dat lukt nog niet helemaal goed. Daarom ga ik in onze volgende meeting vragen stellen om te begrijpen hoe ik dit beter kan doen. Ik ben blij met de voortgang die ik heb gemaakt.
 
   ### Agenda voor meeting
   samen met je groepje opstellen
