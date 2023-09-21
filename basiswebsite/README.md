@@ -108,8 +108,6 @@ Desondanks wil ik mijn project goed afronden en veel leren. Het leerproces is ui
 
 
   ### Verslag van meeting
-  hier na afloop snel de uitkomsten van de meeting vastleggen
-
   We zijn langs elke website gegaan en hebben bepaalde vragen gesteld aan de studentassistenten. Het lukte bij mij niet om de navigatie te laten werken. Ik heb hier daarom mijn vragen over gesteld. Eenmaal klaar met de meeting met ik aan de slag gegaan met de navigatie en het toch aan de praat gekregen.
 </details>
 
@@ -123,9 +121,11 @@ Desondanks wil ik mijn project goed afronden en veel leren. Het leerproces is ui
   <summary>uitwerken voor 2<sup>e</sup> voortgang</summary>
 
   ### Stand van zaken
-  Deze week heb ik alle html van de mainpage geschreven en ben ik aan de slag gegaan met de css. Het eerste deel van de pagina begint met een video op de achtergrond. Ik wist eerst niet hoe ik dit naar achteren moest verplaatsen, maar ik ben er nu achter dat dit doormiddel van z-index gaat. Ook was ik wat tijd kwijt aan het vlak waar de span in staat. deze moesten om de beurt te voorschijn komen. Dit heb ik gedaan dmv keyframes en een linear gradient te plaatsen op de achtergrond zodat er 4 vlakken te zien zijn. 
+Deze week heb ik de belangrijkste inhoud van mijn website opgeschreven en ben ik begonnen met de css te verbeteren. In het bovenste gedeelte van de pagina heb ik een video als achtergrond gebruikt, maar ik had wat moeite om deze naar de achtergrond te verplaatsen, zodat andere dingen eroverheen gezet kunnen worden. Uiteindelijk heb ik ontdekt dat ik dit kan doen door een soort van "volgorde" aan te geven met z-index.
 
-  Ik ben ook aan de slag gegaan om grids te verwerken in mijn pagina, dit lukt alleen nog niet helemaal. Hierover ga ik vragen over stellen tijdens de meeting.
+Ook was ik wat tijd kwijt aan het vlak waar de span in staat. deze moesten om de beurt te voorschijn komen. Dit heb ik gedaan dmv keyframes en een linear gradient te plaatsen op de achtergrond zodat er 4 vlakken te zien zijn. 
+
+Ik probeer ook te leren hoe ik een bepaalde indeling kan maken voor mijn pagina, maar dat lukt nog niet helemaal goed. Daarom ga ik in onze volgende meeting vragen stellen om te begrijpen hoe ik dit beter kan doen. Ik ben blij met de voortgang die ik heb gemaakt.
 
   ### Agenda voor meeting
   samen met je groepje opstellen
