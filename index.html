@@ -44,6 +44,7 @@
 	</header>
 
 	<main>
+		
 		<section>
 			<article>
 				<h1>Club atelier
@@ -58,9 +59,13 @@
 				<p>Ticket Club Atelier September</p>
 				<img src="./images/septicket.png" alt="agenda september poster">
 			</a>
-			<video width="320" height="240" autoplay loop muted>
+			<video id="background-video" width="320" height="240" autoplay loop muted>
 				<source src="./video/videomain.mp4" type="video/mp4" alt="video van locatie Atelier">
 			</video>
+			<button id="pause-button"><img src="./images/play.png" alt=""></button>
+
+			<!-- prefers-reduced-motion -->
+
 		</section>
 
 		<section>
@@ -91,9 +96,9 @@
 
 		<section>
 			<article>
-			<h2>Agenda</h2>
-			<p>Bekijk alles --></p>
-		</article>
+				<h2>Agenda</h2>
+				<p>Bekijk alles --></p>
+			</article>
 			<ol>
 				<li>
 					<h3>15 sep</h3>
@@ -136,21 +141,23 @@
 						<h2>Shop</h2>
 						<img src="./images/pijl-rechts.svg" alt="pijl link naar recchts">
 					</a></li>
-			
+
 				<li><a href="">
 						<h2>Club, Events & Festivals</h2>
 						<img src="./images/pijl-rechts.svg" alt="pijl link naar recchts">
-					</a></li>	
-					<li></li>
+					</a></li>
+				<li></li>
 			</ul>
 		</section>
-		<!-- Scrollnaar rechts toevoegen -->
-		<!-- Agenda is table!!!!! -->
+	
 	</main>
 	<footer>
 		<section>
-			<h2>Contact us</h2>
-			<p>Get in Touch</p>
+			<a href="">
+				<h2>Contact us</h2>
+				<p>Get in Touch</p>
+				<img src="./images/pijl-rechts.svg" alt="pijl link naar recchts">
+			</a>
 		</section>
 
 		<section>
@@ -194,8 +201,10 @@
 		<section>
 			<h2>News letter</h2>
 			<p>Stay updated</p>
-			<label for="email">Enter your email:</label>
-			<input type="email" id="email" name="email">
+			<form>
+				<input type="email" id="email" name="email" placeholder="E-mail">
+				<button type="submit"><img src="./images/pijl-rechts-zwart.svg" alt="Verzend"></button>
+			</form>
 		</section>
 
 		<section>
@@ -203,10 +212,10 @@
 			<!-- Header hiden of alt text om aan te geven wat het is -->
 			<p>Follow us</p>
 			<ul>
-				<li><img src="" alt="instagram"></li>
-				<li><img src="" alt="Facebook"></li>
-				<li><img src="" alt="Linkedin"></li>
-				<li><img src="" alt="Youtube"></li>
+				<li><a href=""><img src="./images/instagram.png" alt="instagram"></a></li>
+				<li><a href=""><img src="./images/facebook.png" alt="Facebook"></a></li>
+				<li><a href=""><img src="./images/linkedin.png" alt="Linkedin"></a></li>
+				<li><a href=""><img src="./images/youtube.png" alt="Youtube"></a></li>
 			</ul>
 		</section>
 		<section>
@@ -244,7 +253,7 @@
 		</section>
 	</footer>
 
-	<script src="scripts/script.js"></script>
+	<script src="./scripts/script.js"></script>
 </body>
 
 </html>

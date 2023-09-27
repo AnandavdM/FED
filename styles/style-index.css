@@ -49,6 +49,8 @@
 	--color-background: #eee;
 	--general-color: lightcoral;
 	--general-background: #fff;
+	--general-background1: #fff;
+
 
 	--header: #001024;
 	--background-main1o:#586E67ee;
@@ -62,12 +64,33 @@
 	--background-main4:#cb5347;
 	--background-main5:#e78166;
 	--background-main6:#001024;
-
+	--background-main7:#1f516f;
 
 	--text-colorgray:#cecece;
 
 
 }
 
+/* @media (prefers-color-scheme: dark) {
+	:root {
+		--general-colord: rgb(108, 60, 60);
+		--background-main1o:rgb(35, 58, 51);
+		--background-main2o:rgb(114, 94, 43);
+		--background-main3o:rgb(38, 44, 49); 
+		--background-main4o:rgb(130, 98, 87);
+	
+		--background-main1:#303e3a;
+		--background-main2:#91680a;
+		--background-main3:#171726; 
+		--background-main4:#56231f;
+		--background-main5:#642b1b;
+		--background-main6:#000000;
+		--background-main7:#081822;
 
-
+		--color-background: rgb(43, 43, 43);
+			--general-background: rgb(255, 255, 255);
+			--general-background1: rgb(0, 0, 0);
+			--color-text: rgb(255, 255, 255);
+	}
+  }
+   */

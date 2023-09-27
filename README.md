@@ -57,6 +57,10 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
     <img src="./readme-images/checklist.pdf" width="375px" alt="checklist">
   ### Bevindingen
   Lijst met je bevindingen die in de test naar voren kwamen:
+  Zie img hierboven.
+  - het viel mij op dat er veel teksten/details niet worden voorgelezen door de screenreader.
+  - De volgorde van lezen is niet logisch, bijv eerst de p en daana h2 etc.
+  - 
 
 
 </details>
@@ -71,13 +75,13 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   Het is nog niet af.
 
   ### de hele pagina: 
-  <img src="./readme-images/mobielframe.jpg" width="375px" alt="breakdown van de hele pagina">
+  <img src="../readme-images/mobielframe.jpg" width="375px" alt="breakdown van de hele pagina">
 
   ### dynamisch deel (bijv menu): 
-  <img src="./readme-images/mobileframe2.jpg" width="375px" alt="breakdown van een dynamisch deel">
+  <img src="../readme-images/mobileframe2.jpg" width="375px" alt="breakdown van een dynamisch deel">
 
   ### wellicht nog een dynamisch deel (bijv filter): 
-  <img src="./readme-images/dummy-plaatje.jpg" width="375px" alt="breakdown van nog een dynamisch deel">
+  <img src="../readme-images/dummy-plaatje.jpg" width="375px" alt="breakdown van nog een dynamisch deel">
 
 </details>
 
@@ -123,22 +127,27 @@ Desondanks wil ik mijn project goed afronden en veel leren. Het leerproces is ui
   ### Stand van zaken
 Deze week heb ik de belangrijkste inhoud van mijn website opgeschreven en ben ik begonnen met de css te verbeteren. In het bovenste gedeelte van de pagina heb ik een video als achtergrond gebruikt, maar ik had wat moeite om deze naar de achtergrond te verplaatsen, zodat andere dingen eroverheen gezet kunnen worden. Uiteindelijk heb ik ontdekt dat ik dit kan doen door een soort van "volgorde" aan te geven met z-index.
 
-Ook was ik wat tijd kwijt aan het vlak waar de span in staat. deze moesten om de beurt te voorschijn komen. Dit heb ik gedaan dmv keyframes en een linear gradient te plaatsen op de achtergrond zodat er 4 vlakken te zien zijn. 
+Ook was ik wat tijd kwijt aan het vlak waar de span in staat. deze moesten om de beurt te voorschijn komen. Dit heb ik gedaan dmv keyframes en een linear gradient te plaatsen op de achtergrond zodat er 4 vlakken te zien zijn. Na alles te hebben uitgevogeld en veel voorgang heb gemaakt zag ik opeens een wit vlak aan de rechterkant van boven naar beneden van ongeveer 40vw. Ik heb geen idee waar dit is mis gegaan in de css, ik heb daarom Bahaa een berichtje op team gestuurd. Ik wacht nog op het antwoord.
 
 Ik probeer ook te leren hoe ik een bepaalde indeling kan maken voor mijn pagina, maar dat lukt nog niet helemaal goed. Daarom ga ik in onze volgende meeting vragen stellen om te begrijpen hoe ik dit beter kan doen. Ik ben blij met de voortgang die ik heb gemaakt.
 
   ### Agenda voor meeting
-  samen met je groepje opstellen
+  samen met je groepje opstellen (Zie excel bestand)
 
-  | student 1      | student 2          | student 3    | student 4        |
+  | Ananda         |Kim                 | Alia         | Valentijn        |
   | ---            | ---                | ---          | ---              |
-  | dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
-  | en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
-  | ...            | ...                | ...          | ...              |
-
+  | Grid op site?  | en dit             | en ik dit    | en dan ik dat    |
+  | van mobile naar| dit als er tijd is | nog een punt | dit wil ik zeker |
+  | desktop?       | ...                | ...          | ...              |
+  | Waar komt het  | ...                | ...          | ...              |
+    witte vlak vandaan?
 
   ### Verslag van meeting
   hier na afloop snel de uitkomsten van de meeting vastleggen
+
+- witte vlak is weg
+- grid uitleg over welke child ik moet pakken
+-  position relative/absolute
 
   - punt 1
   - punt 2
