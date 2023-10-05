@@ -20,7 +20,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   #### Je startniveau:
   Blauw
   #### Je focus:
-  Mijn focus ligt op responsive.
+  Mijn focus ligt op Surface plane.
  
 </details>
 
@@ -186,20 +186,15 @@ Ik probeer ook te leren hoe ik een bepaalde indeling kan maken voor mijn pagina,
   ### Agenda voor meeting
   samen met je groepje opstellen
 
-  | student 1      | student 2          | student 3    | student 4        |
-  | ---            | ---                | ---          | ---              |
-  | dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
-  | en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
-  | ...            | ...                | ...          | ...              |
+  | Ananda         | Alia               | Kim          | Valentijn        |
+Mijn vragen:
+Moet het formulier verstuurd worden?
+Dark/light mode, welke kleuren?
+Mag ik een class op een button voor javascript?
 
 
   ### Verslag van meeting
-  hier na afloop snel de uitkomsten van de meeting vastleggen
-
-  - punt 1
-  - punt 2
-  - nog een punt
-  - ...
+ Na de vergadering heb ik snel de belangrijkste punten opgeschreven. Tijdens het bekijken van de verschillende websites kreeg ik beter zicht op wat er mogelijk is. De vragen die ik had, werden duidelijk beantwoord, waardoor ik weer verder kon met mijn werk. Hierdoor kon ik weer door werken.
 
 </details>
 

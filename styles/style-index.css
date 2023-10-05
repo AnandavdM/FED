@@ -53,6 +53,7 @@
 
 
 	--header: #001024;
+	--orange:#f98436;
 	--background-main1o:#586E67ee;
 	--background-main2o:#b69544cc;
 	--background-main3o:#546370cc; 
@@ -70,8 +71,8 @@
 
 
 }
-
-/* @media (prefers-color-scheme: dark) {
+/* 
+ @media (prefers-color-scheme: dark) {
 	:root {
 		--general-colord: rgb(108, 60, 60);
 		--background-main1o:rgb(35, 58, 51);
@@ -93,4 +94,4 @@
 			--color-text: rgb(255, 255, 255);
 	}
   }
-   */
+    */
