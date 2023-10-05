@@ -47,7 +47,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   #### Screenshot(s) van de eerste pagina (small screen): 
   hier de naam van de pagina  
-  <img src="./readme-images/mobieleframe.jpg" width="375px" alt="foto van mobiele scherm">
+  <img src="./readme-images/frame1.png" width="375px" alt="foto van mobiele scherm">
 
   #### Screenshot(s) van de tweede pagina (small screen):
   hier de naam van de pagina  
