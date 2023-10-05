@@ -47,11 +47,11 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   #### Screenshot(s) van de eerste pagina (small screen): 
   hier de naam van de pagina  
-  <img src="./readme-images/mobielframe.jpg" width="375px" alt="foto van mobiele scherm">
+  <img src="./readme-images/mobieleframe.jpg" width="375px" alt="foto van mobiele scherm">
 
   #### Screenshot(s) van de tweede pagina (small screen):
   hier de naam van de pagina  
-  <img src="./readme-images/mobielframe2.png" width="375px" alt="foto van 2e mobiel scherm">
+  <img src="./readme-images/mobieleframe2.png" width="375px" alt="foto van 2e mobiel scherm">
  
 </details>
 
@@ -83,13 +83,11 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 <details>
   <summary>uitwerken na afloop 3<sup>e</sup> werkgroep</summary>
 
-  Het is nog niet af.
-
   ### de hele pagina: 
-  <img src="../readme-images/mobielframe.jpg" width="375px" alt="breakdown van de hele pagina">
+  <img src="./readme-images/mobieleframe.jpg" width="375px" alt="breakdown van de hele pagina">
 
   ### dynamisch deel (bijv menu): 
-  <img src="../readme-images/mobileframe2.jpg" width="375px" alt="breakdown van een dynamisch deel">
+  <img src="./readme-images/dynamisch.png" width="375px" alt="breakdown van een dynamisch deel">
 
 </details>
 
