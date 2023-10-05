@@ -230,12 +230,22 @@ main section:nth-child(3) img {
 
 main section:nth-child(3) article {
 	color: var(--color-text);
-
 	margin-left: 1em;
 	display: flex;
 	justify-content: space-between;
 	flex-direction: row;
 }
+main section:nth-child(3) article p{
+	font-size: .8em;
+	margin-top: 2em;
+	margin-right: 1em;
+	font-weight: 900;
+	text-transform: uppercase;
+	color: var(--background-main4);
+
+
+}
+
 
 main section:nth-child(3) ol li {
 	list-style: none;
@@ -265,6 +275,18 @@ main section:nth-child(3) ol li p {
 	margin-right: auto;
 }
 
+main section:nth-child(3) ol li:hover{
+	margin-left: .1em;
+	transition: margin-left 0.3s ease-in-out;
+}
+
+main section:nth-child(3) ol li h3:hover{
+	background-color: var(--background-main4);
+	
+	color: var(--general-background);
+	transition: margin-left 0.3s ease-in-out;
+
+}
 
 
 main section:nth-child(4) ul {

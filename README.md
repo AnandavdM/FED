@@ -21,6 +21,13 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   Blauw
   #### Je focus:
   Mijn focus ligt op Surface plane.
+  - video/geluid
+  - Dark/light mode
+  - prefers-reduced motion
+  - animaties
+  - micro interacties
+  - formulieren
+  - advanced positioning
  
 </details>
 
@@ -54,13 +61,17 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
 <details>
   <summary>uitwerken na test in 2<sup>e</sup> werkgroep</summary>
-    <img src="./readme-images/checklist.pdf" width="375px" alt="checklist">
-  ### Bevindingen
+
+### Bevindingen
   Lijst met je bevindingen die in de test naar voren kwamen:
   Zie img hierboven.
+
   - het viel mij op dat er veel teksten/details niet worden voorgelezen door de screenreader.
   - De volgorde van lezen is niet logisch, bijv eerst de p en daana h2 etc.
-  - 
+  - img geen alt
+  - geen dark/light mode
+  - geen reduced motion
+  - geen knop om video's op pauze te zetten
 
 
 </details>
@@ -79,9 +90,6 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   ### dynamisch deel (bijv menu): 
   <img src="../readme-images/mobileframe2.jpg" width="375px" alt="breakdown van een dynamisch deel">
-
-  ### wellicht nog een dynamisch deel (bijv filter): 
-  <img src="../readme-images/dummy-plaatje.jpg" width="375px" alt="breakdown van nog een dynamisch deel">
 
 </details>
 
@@ -149,11 +157,6 @@ Ik probeer ook te leren hoe ik een bepaalde indeling kan maken voor mijn pagina,
 - grid uitleg over welke child ik moet pakken
 -  position relative/absolute
 
-  - punt 1
-  - punt 2
-  - nog een punt
-- ...
-
 </details>
 
 
@@ -167,6 +170,13 @@ Ik probeer ook te leren hoe ik een bepaalde indeling kan maken voor mijn pagina,
 
   ### Bevindingen
   Lijst met je bevindingen die in de test naar voren kwamen (geef ook aan wat er verbeterd is):
+
+  - Slaat h2 in article over bij agenda
+  - alt bij knop pause toevoegen
+  - Slaat agenda en ades & contact over
+  - Geeft bij de captions geen captions aan
+  - bij settings animation en motion uit
+  - contrast is overal goed te lezen
 
 </details>
 
@@ -208,19 +218,23 @@ Mag ik een class op een button voor javascript?
   <summary>uitwerken voor eindgesprek</summary>
 
   ### Je uitkomst - karakteristiek screenshots:
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="uitomst opdracht 1">
-
+  <img src="./readme-images/resultaat1.png" width="375px" alt="uitomst opdracht 1">
+  <img src="./readme-images/resultaat2.png" width="375px" alt="uitomst opdracht 1">
 
   ### Dit ging goed/Heb ik geleerd: 
-  Korte omschrijving met plaatjes
+De 'work eat sport dance' animatie vond ik lastig. Dit heb ik uiteindelijk gemaakt door alle woorden in een span te zttenn en hier een begin/eind tijd aan vast te koppelen. ik heb hier veel van geleerd.
 
-  <img src="readme-images/dummy-plaatje.png" width="375px" alt="top">
-
+Ook de carusel vond ik uitdagend, ik heb dit nog niet eerder gemaakt. ondanks dit heeft david mij alles goed uitgelegd en geholpen waar nodig was.
+  <img src="readme-images/lastig.png" width="375px" alt="bummer">
+  <img src="readme-images/carusel.png" width="375px" alt="bummer">
 
   ### Dit was lastig/Is niet gelukt:
-  Korte omschrijving met plaatjes
+Het is mij niet volledig gelukt om de agenda hover exact na te maken. Ik heb daarom mijn prioriteit bij de andere onderdelen gelegd. Mocht ik langer te tijd hadden, dan was ik hier mee aan de slag gegaan.
 
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="bummer">
+  <img src="readme-images/nietgelukt.png" width="375px" alt="bummer">
+
+
+
 </details>
 
 
@@ -236,8 +250,10 @@ Mag ik een class op een button voor javascript?
   Nb. ChatGpT en andere AI horen er ook bij.
   Nb. Vermeld de bronnen ook in je code.
 
-  1. bron 1
-  2. bron 2
-  3. ...
+  1. bron 1 pause button video -> chatgpt
+  2. bron 2 carusel pagina 2 -> David
+  3. bron 3 span animation -> Quinten
+  4. bron 4 mental support -> kimposibble
+  5. bron 5 nav animation -> werkgroep van sanne
 
 </details>
